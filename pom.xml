@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/faraslutfi/Basoc-Java-Maven-main</url>
+      <url>https://maven.pkg.github.com/faraslutfi/Basic-Java-Maven-main</url>
     </repository>
   </distributionManagement>
   
