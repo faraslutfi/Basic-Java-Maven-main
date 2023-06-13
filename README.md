@@ -5,3 +5,4 @@
 - 1302204016
 
 # Tugas 14 Praktikum
+- KPK Checker dalam Tugas ini
